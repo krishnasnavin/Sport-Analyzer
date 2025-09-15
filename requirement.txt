@@ -1,0 +1,12 @@
+gradio
+pandas
+numpy
+opencv-python
+torch
+torchvision
+scipy
+seaborn
+matplotlib
+tensorflow
+tensorflow_hub
+deep-sort-realtime
